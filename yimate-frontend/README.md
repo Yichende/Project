@@ -22,37 +22,37 @@
 
 #### 主页
 
-<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-13-12.png?imgslim" style="zoom: 50%;" />
+<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-13-12.png?imgslim" width=30% />
 
 
 
 开启匹配按钮
 
-<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-14-36.png?imgslim" style="zoom:50%;" />
+<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-14-36.png?imgslim" width=30% />
 
 
 
 #### 队伍页面
 
-<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-02-30.png?imgslim" style="zoom:50%;" />
+<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-02-30.png?imgslim" width=30% />
 
 **创建队伍**
 
-<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-16-19.png?imgslim" style="zoom:50%;" />
+<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-16-19.png?imgslim" width=30% />
 
 
 
 #### 用户中心
 
-<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-19-36.png?imgslim" style="zoom:50%;" />
+<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-19-36.png?imgslim" width=30% />
 
 
 
 #### 个人信息
 
-<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-20-40.png?imgslim" style="zoom:50%;" />
+<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-20-40.png?imgslim" width=30% />
 
 #### 信息编辑
 
-<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-22-24.png?imgslim" style="zoom:50%;" />
+<img src="http://pan.yichend.top/img/Snipaste_2023-07-25_15-22-24.png?imgslim" width=30% />
 
